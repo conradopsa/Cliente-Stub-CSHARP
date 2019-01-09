@@ -1,0 +1,17 @@
+C:\Users\Derp\source\repos\MessageBox\MessageBox\obj\Debug\stub.csprojAssemblyReference.cache
+C:\Users\Derp\source\repos\MessageBox\MessageBox\obj\Debug\stub.csproj.CoreCompileInputs.cache
+C:\Users\Derp\source\repos\MessageBox\Editor\bin\Debug\Stub.exe.config
+C:\Users\Derp\source\repos\MessageBox\Editor\bin\Debug\Stub.exe
+C:\Users\Derp\source\repos\MessageBox\Editor\bin\Debug\Stub.pdb
+C:\Users\Derp\source\repos\MessageBox\MessageBox\obj\Debug\Stub.exe
+C:\Users\Derp\source\repos\MessageBox\MessageBox\obj\Debug\Stub.pdb
+C:\Users\Derp\Desktop\Interação Cliente Stub C#\Editor\bin\Debug\Stub.exe.config
+C:\Users\Derp\Desktop\Interação Cliente Stub C#\Editor\bin\Debug\Stub.exe
+C:\Users\Derp\Desktop\Interação Cliente Stub C#\Editor\bin\Debug\Stub.pdb
+C:\Users\Derp\Desktop\Interação Cliente Stub C#\Stub\obj\Debug\Stub.csprojAssemblyReference.cache
+C:\Users\Derp\Desktop\Interação Cliente Stub C#\Stub\obj\Debug\Stub.csproj.CoreCompileInputs.cache
+C:\Users\Derp\Desktop\Interação Cliente Stub C#\Stub\obj\Debug\Stub.exe
+C:\Users\Derp\Desktop\Interação Cliente Stub C#\Stub\obj\Debug\Stub.pdb
+C:\Users\Derp\Desktop\Interação Cliente Stub C#\Cliente\bin\Debug\Stub.exe.config
+C:\Users\Derp\Desktop\Interação Cliente Stub C#\Cliente\bin\Debug\Stub.exe
+C:\Users\Derp\Desktop\Interação Cliente Stub C#\Cliente\bin\Debug\Stub.pdb

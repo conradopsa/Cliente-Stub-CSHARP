@@ -1,0 +1,10 @@
+C:\Users\Derp\source\repos\MessageBox\Editor\bin\Debug\Editor.exe.config
+C:\Users\Derp\source\repos\MessageBox\Editor\bin\Debug\Editor.exe
+C:\Users\Derp\source\repos\MessageBox\Editor\bin\Debug\Editor.pdb
+C:\Users\Derp\source\repos\MessageBox\Editor\obj\Debug\Editor.csprojAssemblyReference.cache
+C:\Users\Derp\source\repos\MessageBox\Editor\obj\Debug\Editor.Form1.resources
+C:\Users\Derp\source\repos\MessageBox\Editor\obj\Debug\Editor.Properties.Resources.resources
+C:\Users\Derp\source\repos\MessageBox\Editor\obj\Debug\Editor.csproj.GenerateResource.cache
+C:\Users\Derp\source\repos\MessageBox\Editor\obj\Debug\Editor.csproj.CoreCompileInputs.cache
+C:\Users\Derp\source\repos\MessageBox\Editor\obj\Debug\Editor.exe
+C:\Users\Derp\source\repos\MessageBox\Editor\obj\Debug\Editor.pdb
